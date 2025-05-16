@@ -1,4 +1,4 @@
-name: Generate SBOM
+name: Gen SBOM
 
 on:
   push:
