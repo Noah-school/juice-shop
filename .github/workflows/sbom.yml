@@ -2,7 +2,7 @@ name: Gen SBOM
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   generate-sbom:
